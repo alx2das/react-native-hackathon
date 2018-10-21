@@ -1,0 +1,5 @@
+{
+  "baseBackOffice": "https://example.com/api",
+  "baseAuthData": "email_to_lk:password_to_lk",
+  "retailPointID": "retail_point_id"
+}
